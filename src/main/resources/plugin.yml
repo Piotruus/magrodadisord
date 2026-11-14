@@ -1,0 +1,9 @@
+name: DiscordReward
+main: pl.firestar.discordreward.DiscordReward
+version: 1.0
+api-version: '1.13'
+description: Nagroda za Discorda (GUI + API dla bota)
+commands:
+  nagroda:
+    description: Nagroda za Discorda
+    usage: /nagroda
